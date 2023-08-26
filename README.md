@@ -1,6 +1,7 @@
 # Transaction-Manager-App
 The Transaction Manager Desktop App is a Java application built using the Swing API that provides users with a robust and intuitive platform to manage their financial transactions efficiently. This application serves as a reliable tool for individuals or small businesses to keep track of their income and expenses seamlessly.
-![Uploading Screenshot 2023-08-26 170657.png…]()
+![Screenshot 2023-08-26 170657](https://github.com/NikamHarshal5056/Transaction-Manager-App/assets/97541614/4f00c6a8-3366-431b-9ed0-1a6787302e69)
+
 
 
 Key Features:
